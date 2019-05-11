@@ -1,4 +1,4 @@
 import sys
 
-print("hello")
 
+print("something new")
